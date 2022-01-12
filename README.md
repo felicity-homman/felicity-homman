@@ -12,7 +12,7 @@
 :desert_island: I love robots (Sony AIBO 💙), dogs, electronic music, and comics/manga. I'm a dual citizen, US and Estonia.\
    I've been into computers since I was young, writing personal websites on my interests in HTML. I love to learn and am completely insatiable when it comes to 
    gathering knowledge that is new to me. Along with the opportunity to be creative and flex my problem solving muscles, this is what draws me to
-   programming; being in a collaborative field that is changing constantly!\
+   programming - being in a collaborative field that is changing constantly!\
 \
 :ocean: My (personal) computer is running Linux Mint 20.3\
 \
