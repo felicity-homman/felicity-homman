@@ -9,7 +9,7 @@
 > - Development Tools and Techniques: Agile, Unit Testing (JUnit), Integration Testing, Unix Command Line navigation, Git, IntelliJ
 
 \
-:desert_island: I love robots (Sony AIBO 💙), dogs, electronic music, and comics/manga. I'm a dual citizen, US and Estonia.\
+:desert_island: I love robots (Sony AIBO 💙), dogs, electronic music, and comics/manga.\
    I love to learn and am completely insatiable when it comes to gathering knowledge that is new to me. 
    Along with the opportunity to be creative and flex my problem solving muscles, this is what draws me to
    programming - being in a collaborative field that is changing constantly!\
