@@ -14,7 +14,7 @@
    Along with the opportunity to be creative and flex my problem solving muscles, this is what draws me to
    programming - being in a collaborative field that is changing constantly!\
 \
-:ocean: My (personal) computer is running Linux Mint 20.3\
+:ocean: My (personal) computer is running Arch Linux\
 \
 :parasol_on_ground: I'm attending <a href="https://www.techelevator.com/">Tech Elevator</a> in Columbus Ohio (January 2022 - April 2022)\
 \
