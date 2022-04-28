@@ -1,11 +1,11 @@
 :dolphin: Hello! My name is Felicity Homman.\
 \
-:computer: I'm learning to program, and working hard to get more and more down each day!\
+:computer: I'm learning to program, and working hard to get more and more down each day! I just started my first job as a software developer, and I hope to contribute to open source projects now that I have the time.\
 \
 :computer_mouse: Tools, concepts, and languages I'm currently focusing on:
-> - Object-Oriented Programming: Java
-> - Web Application Development: HTML, CSS, JavaScript, Spring Boot, Vue.js
-> - Database Programming: JDBC, Table Design, SQL, PostgreSQL, E/R diagrams
+> - Languages: Java, Python, JavaScript
+> - Web Application Development: HTML, CSS, Spring Boot, Vue.js, 
+> - Database Programming: JDBC, Table Design, SQL, PostgreSQL, E/R diagrams, HBase, Solr, HDFS
 > - Development Tools and Techniques: Agile, Unit Testing (JUnit), Integration Testing, Unix Command Line navigation, Git, IntelliJ
 
 \
@@ -14,10 +14,8 @@
    Along with the opportunity to be creative and flex my problem solving muscles, this is what draws me to
    programming - being in a collaborative field that is changing constantly!\
 \
-:ocean: My (personal) computer is running Arch Linux\
+:parasol_on_ground: I attended <a href="https://www.techelevator.com/">Tech Elevator</a>'s full time Java bootcamp program in Columbus Ohio (January 2022 - April 2022), where I learned the fundamentals of web application development\
 \
-:parasol_on_ground: I'm attending <a href="https://www.techelevator.com/">Tech Elevator</a> in Columbus Ohio (January 2022 - April 2022)\
-\
-:sunrise: I'm a graduate of <a href="https://www.cscc.edu/">Columbus State Community College</a> with an AAS in Software Development\
+:sunrise: I'm a graduate of <a href="https://www.cscc.edu/">Columbus State Community College</a> with an AAS in Software Development (August 2021)\
 \
 [LinkedIn](https://www.linkedin.com/in/felicity-homman/) || [Contact me](mailto:fhommanwriting@gmail.com)
